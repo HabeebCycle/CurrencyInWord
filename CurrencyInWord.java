@@ -11,7 +11,7 @@ import java.util.*;
  * Call the 'convertToWord()' method passing the value or digits you wish to convert as an argument; this will eturn a string word of the value.
  * String word = currencyWord.convertToWord(312195.50); //No comma (,) between the digits.
  *
- * You can use and share it, but do not modify the content.
+ * You can use and share it.
  * Contact me if you need the PHP, JavaScript, C#, C++ or Python versions.
  * You can contact me if you need an explanation, suggesstions or questions.
  *
